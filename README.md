@@ -1,4 +1,4 @@
-<img src="https://awesome.re/badge.svg"/> <img src=https://img.shields.io/badge/PRs-welcome-green alt="img" style="zoom:100%; vertical-align: middle" />
+<img src="https://awesome.re/badge.svg"/> <img src=https://img.shields.io/badge/PRs-welcome-green alt="img" style="zoom:100%; vertical-align: middle" /> <img src=https://img.shields.io/badge/License-MIT-lightgrey alt="img" style="zoom:100%; vertical-align: middle" />
 # Awesome LLM Consistency
 A curated list of papers and resources about the consistency of large language models.
 
