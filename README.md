@@ -50,6 +50,9 @@ A curated list of papers and resources about the consistency of large language m
 |          |                                                                                                         |                                                                                                                                                  |                                     |
 
 ## Other
-### Other awesome lists
+### Other relevant awesome lists
 - [Awesome LLM Evaluation](https://github.com/onejune2018/Awesome-LLM-Eval)
 - [Awesome LLM hallucination](https://github.com/LuckyyySTA/Awesome-LLM-hallucination)
+- [Factuality in Large Language Models](https://github.com/wangcunxiang/LLM-Factuality-Survey)
+- [LLMs meet misinformation](https://github.com/llm-misinformation/llm-misinformation-survey)
+- [Awesome LLM reasoning](https://github.com/luban-agi/Awesome-LLM-reasoning)
