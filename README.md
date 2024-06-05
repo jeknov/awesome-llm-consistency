@@ -51,4 +51,5 @@ A curated list of papers and resources about the consistency of large language m
 
 ## Other
 ### Other awesome lists
-- [Awesome LLM Eval](https://github.com/onejune2018/Awesome-LLM-Eval)
+- [Awesome LLM Evaluation](https://github.com/onejune2018/Awesome-LLM-Eval)
+- [Awesome LLM hallucination](https://github.com/LuckyyySTA/Awesome-LLM-hallucination)
