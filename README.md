@@ -42,7 +42,13 @@ A curated list of papers and resources about the consistency of large language m
 - <img src=https://img.shields.io/badge/TMLR-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://openreview.net/forum?id=5nBqY1y96B" target="_blank">Two Failures of Self-Consistency in the Multi-Step Reasoning of LLMs</a>, </br>by *Angelica Chen, Jason Phang, Alicia Parrish, Vishakh Padmakumar, Chen Zhao, Samuel R. Bowman, Kyunghyun Cho*
 
 ## Datasets / Benchmarks
-TBD
+
+| **Name** | **Consistency type assessed**                                                                           | **Tasks assessed**                                                                                                                               | **URL**                             |
+|----------|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
+| BECEL    | - semantic<br>- logical negational<br>- logical symmetric<br>- logical transitive<br>- logical additive | - NLI<br>- semantic textual similarity<br>- words-in-context<br>- semantic analysis<br>- machine reading comprehension<br>- topic classification | https://github.com/MJ-Jang/BECEL    |
+| ParaRel  | semantic                                                                                                | relations in knowledge bases                                                                                                                     | https://github.com/yanaiela/pararel |
+|          |                                                                                                         |                                                                                                                                                  |                                     |
 
 ## Other
-TBD
+### Other awesome lists
+- [Awesome LLM Eval](https://github.com/onejune2018/Awesome-LLM-Eval)
