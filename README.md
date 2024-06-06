@@ -21,6 +21,8 @@ A curated list of papers and resources about the consistency of large language m
 - <img src=https://img.shields.io/badge/NeurIPS_workshop-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://openreview.net/forum?id=SgbpddeEV-C" target="_blank">Measuring Reliability of Large Language Models through Semantic Consistency</a>, </br>by *Raj, H., Rosati, D., & Majumdar, S.*.
 - <img src=https://img.shields.io/badge/arXiv-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://arxiv.org/abs/2211.08412" target="_blank">Evaluating the factual consistency of large language models through summarization</a>, </br>by *Tam, D., Mascarenhas, A., Zhang, S., Kwan, S., Bansal, M., & Raffel, C.*.
 - <img src=https://img.shields.io/badge/ICLR-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://openreview.net/forum?id=1PL1NIMMrw" target="_blank">Self-Consistency Improves Chain of Thought Reasoning in Language Models</a>, </br>by *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc V Le, Ed H. Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou*.
+- <img src=https://img.shields.io/badge/ACL_Findings-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://aclanthology.org/2022.findings-acl.240/" target="blank">Factual Consistency of Multilingual Pretrained Language Models</a>, </br>by *Constanza Fierro, Anders Søgaard*.
+
 
 ### 2023
 - <img src=https://img.shields.io/badge/ICLR-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://arxiv.org/pdf/2310.01846.pdf" target="_blank">Benchmarking and improving generator-validator consistency of language models</a>, </br>by *Li, X. L., Shrivastava, V., Li, S., Hashimoto, T., & Liang, P.*
