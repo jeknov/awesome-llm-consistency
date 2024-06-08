@@ -45,11 +45,11 @@ A curated list of papers and resources about the consistency of large language m
 
 ## Datasets / Benchmarks
 
-| **Name** | **Consistency type assessed**                                                                           | **Tasks assessed**                                                                                                                               | **URL**                             |
-|----------|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
-| BECEL    | - semantic<br>- logical negational<br>- logical symmetric<br>- logical transitive<br>- logical additive | - NLI<br>- semantic textual similarity<br>- words-in-context<br>- semantic analysis<br>- machine reading comprehension<br>- topic classification | https://github.com/MJ-Jang/BECEL    |
-| ParaRel  | semantic                                                                                                | relations in knowledge bases                                                                                                                     | https://github.com/yanaiela/pararel |
-|          |                                                                                                         |                                                                                                                                                  |                                     |
+| **Name** | **Consistency type assessed**                                                                           | **Tasks assessed**                                                                                                                               | **URL**                                |
+|----------|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
+| BECEL    | - semantic<br>- logical negational<br>- logical symmetric<br>- logical transitive<br>- logical additive | - NLI<br>- semantic textual similarity<br>- words-in-context<br>- semantic analysis<br>- machine reading comprehension<br>- topic classification | https://github.com/MJ-Jang/BECEL       |
+| ParaRel  | semantic                                                                                                | relations in knowledge bases                                                                                                                     | https://github.com/yanaiela/pararel    |
+| mParaRel | - factual<br>- semantic                                                                                 | relations in multilingual knowledge bases                                                                                                        | https://github.com/coastalcph/mpararel |
 
 ## Other
 ### Other relevant awesome lists
