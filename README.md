@@ -15,6 +15,8 @@ A curated list of papers and resources about the consistency of large language m
 
 ### 2021
 - <img src=https://img.shields.io/badge/TACL-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://aclanthology.org/2021.tacl-1.60" target="_blank">Measuring and improving consistency in pretrained language models</a>, </br>by *Elazar, Y., Kassner, N., Ravfogel, S., Ravichander, A., Hovy, E., Schütze, H., & Goldberg, Y.*
+- <img src=https://img.shields.io/badge/NAACL-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://aclanthology.org/2021.naacl-main.194/" target="_blank">Improving Generation and Evaluation of Visual Stories via Semantic Consistency</a>, </br>by *Adyasha Maharana, Darryl Hannan, Mohit Bansal*
+
 
 ### 2022
 - <img src=https://img.shields.io/badge/COLING-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://aclanthology.org/2022.coling-1.324.pdf" target="_blank">BECEL: Benchmark for consistency evaluation of language models</a>, </br>by *Jang, M., Kwon, D. S., & Lukasiewicz, T*.
@@ -22,6 +24,7 @@ A curated list of papers and resources about the consistency of large language m
 - <img src=https://img.shields.io/badge/arXiv-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://arxiv.org/abs/2211.08412" target="_blank">Evaluating the factual consistency of large language models through summarization</a>, </br>by *Tam, D., Mascarenhas, A., Zhang, S., Kwan, S., Bansal, M., & Raffel, C.*.
 - <img src=https://img.shields.io/badge/ICLR-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://openreview.net/forum?id=1PL1NIMMrw" target="_blank">Self-Consistency Improves Chain of Thought Reasoning in Language Models</a>, </br>by *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc V Le, Ed H. Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou*.
 - <img src=https://img.shields.io/badge/ACL_Findings-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://aclanthology.org/2022.findings-acl.240/" target="blank">Factual Consistency of Multilingual Pretrained Language Models</a>, </br>by *Constanza Fierro, Anders Søgaard*.
+- <img src=https://img.shields.io/badge/EMNLP-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://aclanthology.org/2022.emnlp-main.115/" target="blank">Enhancing Self-Consistency and Performance of Pre-Trained Language Models through Natural Language Inference</a>, </br>by *Eric Mitchell, Joseph J. Noh, Siyan Li, William S. Armstrong, Ananth Agarwal, Patrick Liu, Chelsea Finn, Christopher D. Manning*.
 
 
 ### 2023
@@ -30,6 +33,8 @@ A curated list of papers and resources about the consistency of large language m
 - <img src=https://img.shields.io/badge/ACL-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://aclanthology.org/2023.acl-long.769/" target="_blank">Measuring Consistency in Text-based Financial Forecasting Models</a>, </br>by *Yang, L., Ma, Y., & Zhang, Y.*
 - <img src=https://img.shields.io/badge/arXiv-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://arxiv.org/abs/2308.09138" target="_blank">Semantic consistency for assuring reliability of large language models</a>, </br>by *Raj, H., Gupta, V., Rosati, D., & Majumdar, S.*
 - <img src=https://img.shields.io/badge/EMNLP-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://arxiv.org/abs/2303.08896" target="_blank">SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models</a>, </br>by *Potsawee Manakul, Adian Liusie, Mark J. F. Gales*
+- <img src=https://img.shields.io/badge/ICLR-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://openreview.net/forum?id=1PL1NIMMrw" target="_blank">Self-Consistency Improves Chain of Thought Reasoning in Language Models</a>, </br>by *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc V Le, Ed H. Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou*
+- <img src=https://img.shields.io/badge/EMNLP-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://aclanthology.org/2023.emnlp-main.761/" target="_blank">Let’s Sample Step by Step: Adaptive-Consistency for Efficient Reasoning and Coding with LLMs</a>, </br>by *Pranjal Aggarwal, Aman Madaan, Yiming Yang, Mausam*
 
 
 ### 2024
@@ -42,6 +47,14 @@ A curated list of papers and resources about the consistency of large language m
 - <img src=https://img.shields.io/badge/arXiv-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://arxiv.org/abs/2311.16842" target="_blank">RELIC: Investigating Large Language Model Responses using Self-Consistency</a>, </br>by *Cheng, F., Zouhar, V., Arora, S., Sachan, M., Strobelt, H., & El-Assady, M.*
 - <img src=https://img.shields.io/badge/arXiv-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://arxiv.org/abs/2401.02132" target="_blank">DCR-Consistency: Divide-Conquer-Reasoning for Consistency Evaluation and Improvement of Large Language Models</a>, </br>by *Cui, W., Zhang, J., Li, Z., Damien, L., Das, K., Malin, B., & Kumar, S.*
 - <img src=https://img.shields.io/badge/TMLR-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://openreview.net/forum?id=5nBqY1y96B" target="_blank">Two Failures of Self-Consistency in the Multi-Step Reasoning of LLMs</a>, </br>by *Angelica Chen, Jason Phang, Alicia Parrish, Vishakh Padmakumar, Chen Zhao, Samuel R. Bowman, Kyunghyun Cho*
+- <img src=https://img.shields.io/badge/arXiv-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://arxiv.org/abs/2402.11279" target="_blank">Multi-Perspective Consistency Enhances Confidence Estimation in Large Language Models</a>, </br>by *Pei Wang, Yejie Wang, Muxi Diao, Keqing He, Guanting Dong, Weiran Xu*
+- <img src=https://img.shields.io/badge/CogSIMA-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://ieeexplore.ieee.org/abstract/document/10553903" target="_blank">Probing the Consistency of Situational Information Extraction with Large Language Models: A Case Study on Crisis Computing</a>, </br>by *Andrea Salfinger, Lauro Snidaro*
+- <img src=https://img.shields.io/badge/ACL-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://arxiv.org/abs/2402.13212" target="_blank">Soft Self-Consistency Improves Language Model Agents</a>, </br>by *Han Wang, Archiki Prasad, Elias Stengel-Eskin, Mohit Bansal*
+- <img src=https://img.shields.io/badge/NAACL-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://arxiv.org/abs/2310.07712" target="_blank">Found in the Middle: Permutation Self-Consistency Improves Listwise Ranking in Large Language Models</a>, </br>by *Raphael Tang, Xinyu Zhang, Xueguang Ma, Jimmy Lin, Ferhan Ture*
+- <img src=https://img.shields.io/badge/arXiv-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://arxiv.org/abs/2402.13904" target="_blank">Calibrating Large Language Models with Sample Consistency</a>, </br>by *Qing Lyu, Kumar Shridhar, Chaitanya Malaviya, Li Zhang, Yanai Elazar, Niket Tandon, Marianna Apidianaki, Mrinmaya Sachan, Chris Callison-Burch*
+- <img src=https://img.shields.io/badge/LREC_COLING-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://arxiv.org/abs/2402.13709" target="_blank">SaGE: Evaluating Moral Consistency in Large Language Models</a>, </br>by *Vamshi Krishna Bonagiri, Sreeram Vennam, Priyanshul Govil, Ponnurangam Kumaraguru, Manas Gaur*
+- <img src=https://img.shields.io/badge/SaTML-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://ieeexplore.ieee.org/abstract/document/10516635" target="_blank">Evaluating Superhuman Models with Consistency Checks</a>, </br>by *Lukas Fluri; Daniel Paleka; Florian Tramèr*
+
 
 ## Datasets / Benchmarks
 
