@@ -66,6 +66,7 @@ A curated list of papers and resources about the consistency of large language m
 - <img src=https://img.shields.io/badge/arXiv-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://arxiv.org/abs/2309.17272" target="_blank">Enhancing Large Language Models in Coding Through Multi-Perspective Self-Consistency</a>, </br>by *Baizhou Huang, Shuai Lu, Weizhu Chen, Xiaojun Wan, Nan Duan*
 - <img src=https://img.shields.io/badge/arXiv-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://arxiv.org/pdf/2404.12145" target="_blank">From form(s) to meaning: Probing the semantic depths of language models using multisense consistency</a>, </br>by *Xenia Ohmer, Elia Bruni, Dieuwke Hupkes*
 - <img src=https://img.shields.io/badge/NAACL-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://aclanthology.org/2024.naacl-long.295/" target="_blank">You don’t need a personality test to know these models are unreliable: Assessing the Reliability of Large Language Models on Psychometric Instruments</a>, </br>by *Bangzhao Shu, Lechen Zhang, Minje Choi, Lavinia Dunagan, Lajanugen Logeswaran, Moontae Lee, Dallas Card, David Jurgens*
+- <img src=https://img.shields.io/badge/CVPR_workshop-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://arxiv.org/abs/2404.08799" target="_blank">Semantic Approach to Quantifying the Consistency of Diffusion Model Image Generation</a>, </br>by *Brinnae Bent*
 
 
 ## Datasets / Benchmarks
