@@ -7,6 +7,10 @@ A curated list of papers and resources about the consistency of large language m
 - [Datasets / Benchmarks](#datasets--benchmarks)
 - [Other](#other)
 
+### 💮 Contributing
+
+If you'd like to include your paper, or need to update any details such as conference information or code URLs, please feel free to submit a pull request. We warmly appreciate your contributions to this list. Alternatively, you can email me with the links to your paper and code, and I would add your paper to the list at my earliest convenience.
+
 ## Papers
 ### 2020
 - <img src=https://img.shields.io/badge/ACL-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://aclanthology.org/2020.acl-main.499/" target="_blank">Logic-Guided Data Augmentation and Regularization for Consistent Question Answering</a>, </br>by *Asai, A., & Hajishirzi, H.*
