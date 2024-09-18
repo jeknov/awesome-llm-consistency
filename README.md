@@ -98,7 +98,7 @@ If you'd like to include your paper, or need to update any details such as confe
 ```
 @misc{novikova2024-llm-consistency-list,
   author = {Novikova Jekaterina},
-  title = {Awesome LLM Consistency: s curated list of papers and resources about the consistency of large language models.},
+  title = {Awesome LLM Consistency: a curated list of papers and resources about the consistency of large language models.},
   year = {2024},
   publisher = {GitHub},
   journal = {GitHub repository},
