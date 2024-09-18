@@ -93,3 +93,15 @@ If you'd like to include your paper, or need to update any details such as confe
 - [Factuality in Large Language Models](https://github.com/wangcunxiang/LLM-Factuality-Survey)
 - [LLMs meet misinformation](https://github.com/llm-misinformation/llm-misinformation-survey)
 - [Awesome LLM reasoning](https://github.com/luban-agi/Awesome-LLM-reasoning)
+
+## Citing
+```
+@misc{novikova2024-llm-consistency-list,
+  author = {Novikova Jekaterina},
+  title = {Awesome LLM Consistency: s curated list of papers and resources about the consistency of large language models.},
+  year = {2024},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/jeknov/awesome-llm-consistency}},
+}
+```
