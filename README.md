@@ -85,6 +85,7 @@ If you'd like to include your paper, or need to update any details such as confe
 | ParaRel  | - semantic                                                                                                | relations in knowledge bases                                                                                                                     | https://github.com/yanaiela/pararel    |
 | mParaRel | - factual<br>- semantic                                                                                 | relations in multilingual knowledge bases                                                                                                        | https://github.com/coastalcph/mpararel |
 | Moral Consistency Corpus (MCC) | - semantic                                                                                 | moral question answering                                                                                                        | https://github.com/vnnm404/SaGE |
+| REFUTE  | - epistemic consistency between critique skill and calibrated confidence<br>- faithfulness of scientific summaries | scientific critique / falsification / claim licensing / uncertainty calibration on recent papers | https://huggingface.co/datasets/BGPT-OFFICIAL/refute ; https://bgpt.pro/refute |
 
 ## Other
 ### Other relevant awesome lists
