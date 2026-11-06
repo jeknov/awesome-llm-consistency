@@ -77,6 +77,9 @@ If you'd like to include your paper, or need to update any details such as confe
 - <img src=https://img.shields.io/badge/arXiv-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://arxiv.org/abs/2404.18624" target="_blank">Do Vision & Language Decoders use Images and Text equally? How Self-consistent are their Explanations?</a>, </br>by *Letitia Parcalabescu, Anette Frank*
 
 
+### 2026
+- <img src=https://img.shields.io/badge/arXiv-blue alt="img" style="zoom:100%; vertical-align: middle" /> <a href="https://arxiv.org/abs/2611.05798" target="_blank">Consistency Is Not Understanding: Orbit Audits for Neural Field Weight Readers</a>, </br>by *Sungguk Cha, Mintae Kim, Youngsub Han, Byoung-Ki Jeon, Sangyeob Lee*
+
 ## Datasets / Benchmarks
 
 | **Name** | **Consistency type assessed**                                                                           | **Tasks assessed**                                                                                                                               | **URL**                                |
